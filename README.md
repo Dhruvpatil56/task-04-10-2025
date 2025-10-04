@@ -22,7 +22,7 @@ Web hosting on Nginx and Apache Tomcat
 - Access :http:// <ec2-ip>
 
 
-##
+## Apache
 
 - Install Apache Tomcat:
  sudo apt update
